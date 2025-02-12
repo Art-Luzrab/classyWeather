@@ -1,2 +1,1 @@
-# classyWeather
-React Before Hooks: Class-Based React Project
+React Before Hooks Project: Classy Weather App
